@@ -1,0 +1,32 @@
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(19, 19, 19);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: orange;
+}
+
+.links {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 25px;
+}
+.logout {
+  background-color: rgb(255, 144, 8);
+    margin:  20px 10px;
+    font-size: 20px;
+    border:slategrey;
+    font-weight: 600;
+    color: aliceblue;
+    border-radius: 7px;
+    cursor: pointer;
+}
