@@ -4,7 +4,7 @@ export const Contact = () => {
   return (
     <div>
       <form class="form">
-        <h2>CONTACT US</h2>
+        <h2>CONTACT US👉🏻</h2>
         <p type="Name:">
           <input placeholder="Write your name here.."></input>
         </p>
