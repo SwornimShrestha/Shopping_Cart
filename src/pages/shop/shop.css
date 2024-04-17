@@ -36,6 +36,8 @@
 }
 
 .addToCartBttn {
+  color: rgb(8, 9, 9);
+  font-weight: 900;
   background-color: transparent;
   border: 2px solid rgb(19, 19, 19);
   min-width: 100px;
