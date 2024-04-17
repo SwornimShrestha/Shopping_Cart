@@ -3,6 +3,7 @@ import { PRODUCTS } from "../../products";
 import { Product } from "./product";
 
 import Banner from "../../assets/products/banner.png";
+import Banner1 from "../../assets/products/banner1.png";
 
 import "./shop.css";
 export const Shop = () => {
@@ -12,6 +13,12 @@ export const Shop = () => {
         src={Banner}
         alt="Banner"
         style={{ marginTop: "70px", width: "100%", height: "300px" }}
+      />{" "}
+      {/* Image with width and height */}
+      <img
+        src={Banner1}
+        alt="Banner"
+        style={{ marginTop: "70px", width: "100%", height: "150px" }}
       />{" "}
       {/* Image with width and height */}
       <div className="shopTitle">

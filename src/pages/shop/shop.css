@@ -23,7 +23,7 @@
 }
 
 .product img {
-  width: 260px;
+  width: 200px;
 }
 
 .product .description {
@@ -48,6 +48,6 @@
 
 .addToCartBttn:hover {
   background-color: rgb(19, 19, 19);
-  color: white;
+  color: yellow;
   cursor: pointer;
 }
