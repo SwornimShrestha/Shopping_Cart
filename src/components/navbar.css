@@ -3,15 +3,18 @@
   height: 50px;
   background-color: rgb(19, 19, 19);
   display: flex;
-  justify-content: center;
+  position: fixed;
+  top: 0;
   align-items: center;
   background-color: #ffef00;
 }
-
+.logo{
+  color: rgb(22, 21, 21);
+  font-size: 25px;
+}
 .links {
   display: flex;
-  justify-content: space-around;
-  
+  margin-left:38%;
 }
 
 .links a {
