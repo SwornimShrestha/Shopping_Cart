@@ -31,7 +31,7 @@ const Footer = () => {
             <li>Open ticket</li>
           </ul>
         </div>
-        <div className="col social">
+        {/* <div className="col social">
           <h1>Social</h1>
           <ul>
             <li>
@@ -56,7 +56,7 @@ const Footer = () => {
               />
             </li>
           </ul>
-        </div>
+        </div> */}
         <div className="clearfix"></div>
       </div>
     </div>

@@ -3,11 +3,13 @@ html,body {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, Sans-serif;
-   background-color: #fffe7a;
+   background-color: #fefefe;
   }
   
   /* STYLES SPECIFIC TO FOOTER  */
   .footer {
+    position: relative;
+    margin-top: 120px;
     width: 100%;
     position: relative;
     height: auto;

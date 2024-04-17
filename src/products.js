@@ -55,4 +55,16 @@ export const PRODUCTS = [
     price: 40.0,
     productImage: product8,
   },
+  {
+    id: 9,
+    productName: "IPhone",
+    price: 999.0,
+    productImage: product1,
+  },
+  {
+    id: 10,
+    productName: "SPECTRUM LS TEE",
+    price: 68.0,
+    productImage: product6,
+  },
 ];
