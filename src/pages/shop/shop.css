@@ -53,3 +53,14 @@
   color: yellow;
   cursor: pointer;
 }
+
+.search-btn{
+  margin-top: 3px;
+  width: 120px;
+  height: 34px;
+}
+.searchInput{
+  height: 34px;
+  border: none;
+  margin-right: 12px;
+}
