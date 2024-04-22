@@ -25,7 +25,7 @@ export const Shop = () => {
       <img
         src={Banner}
         alt="Banner"
-        style={{ marginTop: "70px", width: "90%", height: "300px" }}
+        style={{ marginTop: "70px", width: "90%", height: "380px" }}
       />
       {/* Image with width and height */}
       <img
